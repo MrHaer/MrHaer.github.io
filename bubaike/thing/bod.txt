@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<title></title>
+<link rel="stylesheet" type="text/css" href="../../css/thing.css" />
+<base target="_blank">
+</head>
+
+<body>
+<h1></h1>
+<div></div>
+<br />
+<div>
+暂无引用
+</div>
+<p>修改于 修改人</p>
+<p><b>哈儿实验室</b>&nbsp;2020-2021&nbsp;&copy;&nbsp;保留所有权利，仿冒不究。</p>
+</body>
+
+</html>

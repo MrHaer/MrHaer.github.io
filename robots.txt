@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /bubaike
-Allow: /index.html
 Disallow: /

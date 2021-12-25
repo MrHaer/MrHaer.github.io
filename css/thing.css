@@ -1,1 +1,15 @@
 ﻿/* 为百科准备的CSS样式表 */
+@charset "utf-8";
+/*持续人性化设计*/
+html{
+	padding: 1em;
+}
+div,p{
+	text-indent: 2em;
+	letter-spacing: -1px;
+	line-height: 95%;
+}
+span.changer{
+	border-style: solid;
+	border-width: 1px;
+}

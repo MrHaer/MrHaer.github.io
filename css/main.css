@@ -1,12 +1,12 @@
 ﻿@charset "utf-8";
 /*主要的css*/
 html{
-	margin-left: 13px;
+	margin-left: 15px;
 }
 p,div{
-	margin: -15px;
-	padding: -15px;
-}/*人性化设计*/
+	margin: 0px;
+	padding: 0px;
+}
 .friend-link{
 	float: right;
 }

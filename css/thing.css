@@ -1,13 +1,12 @@
 ﻿@charset "utf-8";
 /* 为百科准备的CSS样式表 */
-/*持续人性化设计*/
 html{
 	padding: 1em;
 }
 div,p{
-	text-indent: 2em;
-	letter-spacing: -1px;
-	line-height: 95%;
+	font-family: 'Times New Roman',Serif;
+	letter-spacing: 1px;
+	line-height: 120%;
 }
 span.changer{
 	border-style: solid;
